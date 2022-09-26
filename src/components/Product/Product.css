@@ -1,0 +1,25 @@
+.wrapper {
+  font-family: monospace;
+  color: rgb(27, 27, 27);
+  line-height: 40px;
+  font-size: 30px;
+}
+
+.product {
+  font-size: 100px;
+  margin: 50px 0;
+}
+
+.wrapper button {
+  padding: 5px 8px;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.add-button {
+  background-color: rgb(140, 232, 140);
+}
+
+.remove-button {
+  background-color: rgb(239, 103, 103);
+}
