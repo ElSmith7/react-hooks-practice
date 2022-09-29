@@ -7,13 +7,19 @@
 
 .product {
   font-size: 100px;
-  margin: 50px 0;
+  margin: 80px 0 50px 0;
 }
 
 .wrapper button {
   padding: 5px 8px;
   border-radius: 5px;
   font-size: 18px;
+  transition: all 200ms ease-in-out;
+}
+
+.wrapper button:hover {
+  cursor: pointer;
+  opacity: 0.8;
 }
 
 .add-button {
